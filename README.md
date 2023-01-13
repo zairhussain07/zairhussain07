@@ -1,7 +1,7 @@
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coding_.png" width="50px"> <br>
+नमस्ते (Namaste), I Am Zair Hussain! <img src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/coding_.png" width="50px"> <br>
 </h1>
 
 <center>
@@ -17,9 +17,9 @@
  <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
  4. More <a href="https://enally.in/">Link 1</a> & <a href="https://enally.in/files-manager/project-page">Link 2</a><br>
 <br>
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/keep_coding.gif">
 
-![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+![](https://komarev.com/ghpvc/?username=zairhussain07&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
 ### I am a web developer
 
@@ -35,12 +35,12 @@
 
 <hr/>
 
-<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
+<img width="26" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar)
-[![Linkedin Badge](https://img.shields.io/badge/-03prashantpk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/03prashantpk/)
+[![Instagram Badge](https://img.shields.io/badge/-@zair_hussain07-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zair_hussain07)](https://www.instagram.com/zair_hussain07)
+[![Linkedin Badge](https://img.shields.io/badge/-zairhussain07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zairhussain/)](https://www.linkedin.com/in/zairhussain/)
 [![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk)
-![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)
+![](https://komarev.com/ghpvc/?username=zairhussain07&color=blue)
 
 
 <!--
@@ -89,13 +89,13 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <hr/>
 
-<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+<img align="left" alt="Google" width="100px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/coursera_logo_icon.png" />
 
 <br><br><br><br>
 
@@ -105,27 +105,27 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <br>
 
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zairhussain07&layout=compact&theme=blue-green" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zairhussain07&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=zairhussain07&theme=github)
 
 <p align="center">
 <a href="https://diligentcreator.ml/u/admin" target="_blank">
  
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/profile-cloud.png)
   
 </a>
 </p>
 
 <p style="color: red;" align="right" >Last Update on: 30 Sept 2021 </p>
 
-<a href="https://www.linkedin.com/in/03prashantpk/">
+<a href="https://www.linkedin.com/in/zairhussain07/">
 
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/footer2.png)
 
 </a>
 
-<!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
+<!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/zairhussain07 Github: https://github.com/zairhussain07 ----->
 
