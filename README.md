@@ -22,9 +22,9 @@
 
 - 👨‍🏭 I’m currently pursuing **B-Tech** <br>
 - 🏫 I’m currently learning **Web Devlopment and DSA** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
+- 🙌 I’m looking to collaborate on **Web Development & Paid Ads** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2021 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
+- 🥅 2023 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
