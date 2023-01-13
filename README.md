@@ -1,7 +1,7 @@
-![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/header.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/master/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Zair Hussain! <img src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/coding_.png" width="50px"> <br>
+नमस्ते (Namaste), I Am Zair Hussain! <img src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/coding_.png" width="50px"> <br>
 </h1>
 
 <center>
@@ -17,7 +17,7 @@
  <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
  4. More <a href="https://enally.in/">Link 1</a> & <a href="https://enally.in/files-manager/project-page">Link 2</a><br>
 <br>
-<img align="right" alt="coding" width="250" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/keep_coding.gif">
 
 ![](https://komarev.com/ghpvc/?username=zairhussain07&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
@@ -35,7 +35,7 @@
 
 <hr/>
 
-<img width="26" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/like.png">
+<img width="26" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/like.png">
 
 [![Instagram Badge](https://img.shields.io/badge/-@zair_hussain07-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zair_hussain07)](https://www.instagram.com/zair_hussain07)
 [![Linkedin Badge](https://img.shields.io/badge/-zairhussain07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zairhussain/)](https://www.linkedin.com/in/zairhussain/)
@@ -89,13 +89,13 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <hr/>
 
-<img align="left" alt="Google" width="100px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/coursera_logo_icon.png" />
+<img align="left" alt="Google" width="100px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/coursera_logo_icon.png" />
 
 <br><br><br><br>
 
@@ -114,7 +114,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <p align="center">
 <a href="https://diligentcreator.ml/u/admin" target="_blank">
  
-![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/profile-cloud.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/master/assets/profile-cloud.png)
   
 </a>
 </p>
@@ -123,7 +123,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <a href="https://www.linkedin.com/in/zairhussain07/">
 
-![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/footer2.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/master/assets/footer2.png)
 
 </a>
 
