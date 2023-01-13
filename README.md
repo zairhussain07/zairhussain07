@@ -1,4 +1,4 @@
-![](https://github.com/zairhussain07/zairhussain07/blob/main/assets/header.png)
+![](https://github.com/zairhussain07/zairhussain07/blob/master/assets/header.png)
 
 <h1 align="center">
 नमस्ते (Namaste), I Am Zair Hussain! <img src="https://github.com/zairhussain07/zairhussain07/blob/main/assets/coding_.png" width="50px"> <br>
