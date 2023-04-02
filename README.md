@@ -34,9 +34,8 @@
 
 <img width="26" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-@zair_hussain07-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zair_hussain07)](https://www.instagram.com/zair_hussain07)
 [![Linkedin Badge](https://img.shields.io/badge/-zairhussain07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zairhussain/)](https://www.linkedin.com/in/zairhussain/)
-[![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk)
+[![Instagram Badge](https://img.shields.io/badge/-@zair_hussain07-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zair_hussain07)](https://www.instagram.com/zair_hussain07)
 ![](https://komarev.com/ghpvc/?username=zairhussain07&color=blue)
 
 
@@ -52,17 +51,15 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <hr/>
 
+<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SCSS" width="40px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="SCSS" width="40px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
-<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
-<img align="left" alt="Jquery" width="40px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
+<img align="left" alt="Java" width="40px" src="https://dev.java/assets/images/java-logo-vector.png" />
 
 <br><br>
 
