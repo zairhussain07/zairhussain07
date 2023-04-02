@@ -34,7 +34,7 @@
 
 <img width="26" src="https://github.com/zairhussain07/zairhussain07/blob/master/assets/like.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-zairhussain07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zairhussain/)](https://www.linkedin.com/in/zairhussain/)
+[![Linkedin Badge](https://img.shields.io/badge/-zairhussain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zairhussain/)](https://www.linkedin.com/in/zairhussain/)
 [![Instagram Badge](https://img.shields.io/badge/-@zair_hussain07-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zair_hussain07)](https://www.instagram.com/zair_hussain07)
 ![](https://komarev.com/ghpvc/?username=zairhussain07&color=blue)
 
@@ -115,7 +115,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <p style="color: red;" align="right" >Last Update on: 30 Sept 2021 </p>
 
-<a href="https://www.linkedin.com/in/zairhussain07/">
+<a href="https://www.linkedin.com/in/zairhussain/">
 
 ![](https://github.com/zairhussain07/zairhussain07/blob/master/assets/footer2.png)
 
